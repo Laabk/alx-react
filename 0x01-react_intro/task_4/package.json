@@ -1,0 +1,6 @@
+{
+  "homepage": "http://agun36.github.io/alx-react",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}

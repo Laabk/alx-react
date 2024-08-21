@@ -1,0 +1,14 @@
+.App-header{
+  display: flex;
+  align-items: center;
+  flex: 1 1 auto;
+}
+.App-header h1{
+  color: red;
+}
+@media screen and (max-width: 800px) {
+  .App-header{
+    flex-direction: column;
+  }
+  
+}
